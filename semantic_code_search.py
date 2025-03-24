@@ -8,7 +8,7 @@ from openai import OpenAI
 import argparse
 import tiktoken
 
-# Guni Deyo Haness 
+# Author: Guni 
 # 2025-03-20    
 # This is the semantic code search engine.
 # It allows you to build an index of code snippets from a source directory

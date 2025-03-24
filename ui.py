@@ -5,7 +5,7 @@ import threading
 from semantic_code_search import SemanticCodeSearch
 import json
 
-# Guni Deyo Haness 
+# Author: Guni 
 # 2025-03-20    
 # This is the UI for the semantic code search application.
 # It allows you to build an index of code snippets from a source directory

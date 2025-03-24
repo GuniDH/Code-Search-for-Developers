@@ -1,7 +1,7 @@
 # Semantic Code Search
+### Author: Guni 
 
 A tool for searching through codebases using natural language queries powered by OpenAI embeddings.
-# Author: Guni 
 
 ## Overview
 
